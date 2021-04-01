@@ -15,3 +15,6 @@ docker run -it -p 3000:3000 -v $(pwd):/home/node/app iniciando-react
 ```
 
 Acesse no browser http://localhost:3000
+
+
+live: https://www.youtube.com/watch?v=kxoBhslDRcw
